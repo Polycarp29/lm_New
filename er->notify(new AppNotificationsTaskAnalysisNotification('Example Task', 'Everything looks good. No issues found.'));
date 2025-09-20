@@ -1,0 +1,15 @@
+[90m= [39m[34;4mApp\Models\User[39;24m {#7300
+    [34mid[39m: [35m12[39m,
+    [34mname[39m: "[32mLee Marketing Services[39m",
+    [34memail[39m: "[32mleemarketingservices2024@gmail.com[39m",
+    [34memail_verified_at[39m: [36mnull[39m,
+    #[33mpassword[39m: "[32m$2y$12$SXE87wMISczdE6PeNZ4OIeeWzCZdjIBBiGvR3FATAMyZ/onLdRdDq[39m",
+    #[33mremember_token[39m: [36mnull[39m,
+    [34mcreated_at[39m: "[32m2025-05-06 12:00:04[39m",
+    [34mupdated_at[39m: "[32m2025-05-09 08:35:49[39m",
+    [34mlast_seen_at[39m: [36mnull[39m,
+    [34mgoogle_id[39m: "[32m107167372775894345136[39m",
+    [34mgoogle_token[39m: "[32mya29.a0AZYkNZgOoH0sYx2ZGKhRC40FBO4WK7V4g8GK5d3M_vH8VEPrXDpFlyijEWfHTcUkWMkOaTRuEBcnU3VvZKO5krdmFO5qp5exKV1CTzhVP7RsZwRWu4IJF81snI_kW_Mhs1tbxb2bYdxlEbR6TUm_gRSPr8pH_Frb6SGm6kXJaCgYKAYgSARcSFQHGX2Mib4jAYUR5wbZaeQPF5JaBHg0175[39m",
+    [34mgoogle_refresh_token[39m: "[32m1//03KneK8v3a6mvCgYIARAAGAMSNwF-L9Irr6zUjOBUHo3LLlwG_oSfA9IzL3Tm3wfz4eg-SUf_SZtcMD-65WlCk_g5cYJwhsAJZmM[39m",
+  }
+
