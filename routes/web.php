@@ -93,13 +93,7 @@ Route::middleware(['auth', 'role:user,super_admin,user'])->group(function () {
 
 Route::get('/quote/{serviceId}', [QouteServiceController::class, 'index'])->name('get_quote');
 
-Route::get('/gd-test', function () {
-    if (extension_loaded('gd')) {
-        return 'GD is enabled';
-    } else {
-        return 'GD is not enabled';
-    }
-});
+
 
 Route::get('/email',  function () {
     return view('emails.requestanalysis');
