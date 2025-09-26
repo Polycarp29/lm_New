@@ -104,3 +104,5 @@ Route::get('/gd-test', function () {
 Route::get('/email',  function () {
     return view('emails.requestanalysis');
 });
+// Public privacy policy page (no controller needed)
+Route::view('/privacy', 'privacy')->name('privacy');
